@@ -44,10 +44,10 @@ The program will run in the terminal and display:
 
 ## UI Design
 
-This program runs in the terminal and does not include a graphical user interface
+This program runs in the terminal and does not include a graphical user interface.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/project1.jpg)  
+Fig 1. Web scraper output showing Engineer job listings
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
