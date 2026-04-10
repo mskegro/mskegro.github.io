@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Python Job Web Scraper
 ===============
 
 -   **Class: Survey Of Scripting Languages** 
