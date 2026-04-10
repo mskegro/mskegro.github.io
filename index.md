@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Software Development](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 315**  
+-   **Grade: A**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
