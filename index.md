@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 330** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 415** 
+-   **Grade: A**
 
 ---
 
@@ -54,7 +54,7 @@ Presentations
 ### [Leukemia Charity 5K Run](/pdf/sample_presentation.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
