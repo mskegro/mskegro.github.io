@@ -26,10 +26,10 @@ pip install requests beautifulsoup4
 
 ```
 ### Go to your project folder
+```bash
 cd path/to/your/project
 
-Example:
-cd Desktop/your-folder-name
+```
 
 ### Run the program
 ```bash
