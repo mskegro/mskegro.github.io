@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics in Software Development](/pdf/sample_presentation.pdf)
+### [Ethics in Software Development](/pdf/paper1.pdf)
 
 -   **Class: CSCI 315**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [A Double-Edged Sword in the Digital Age](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 330** 
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
