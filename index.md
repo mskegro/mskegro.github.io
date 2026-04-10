@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class: CSCI 315**  
 -   **Grade: A**
 
-### [A Double-Edged Sword in the Digital Age](/pdf/sample_presentation.pdf)
+### [A Double-Edged Sword in the Digital Age](/pdf/paper2.pdf)
 
 -   **Class: CSCI 330** 
 -   **Grade: A**
