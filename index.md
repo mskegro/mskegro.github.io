@@ -53,7 +53,7 @@ Presentations
 
 ### [Leukemia Charity 5K Run](/pdf/sample_presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 334** 
 - **Grade: A**
 
 
