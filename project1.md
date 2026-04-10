@@ -6,7 +6,7 @@ Python Job Web Scraper
 -   **Class: Survey Of Scripting Languages** 
 -   **Grade: A** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/mskegro/csci301)  
+-   **Source Code Repository:** [mskegro](https://github.com/mskegro/csci301)  
     (Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -46,7 +46,7 @@ The program will run in the terminal and display:
 
 This program runs in the terminal and does not include a graphical user interface.
 
-![screenshot](images/project1.jpg)  
+![screenshot](images/project1.png)  
 Fig 1. Web scraper output showing Engineer job listings
 
 ![screenshot](images/dummy_thumbnail.jpg)  
