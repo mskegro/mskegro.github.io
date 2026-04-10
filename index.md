@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 330** 
 -   **Grade: A**
 
-### [Ethics Paper](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/paper3.pdf)
 
 -   **Class: CSCI 415** 
 -   **Grade: A**
