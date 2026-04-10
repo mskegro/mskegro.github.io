@@ -52,8 +52,12 @@ Fig 1. Web scraper output showing Engineer job listings
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
+This project highlights important programming concepts such as:
+- Working with external web data sources
+- Parsing HTML documents
+- Filtering and extracting specific information
+- Handling incomplete or missing data safely
+  
 For more details see [GitHub Flavored Markdown](https://github.com/mskegro/csci301).
 
 [Back to Portfolio](./)
