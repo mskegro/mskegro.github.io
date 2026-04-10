@@ -58,6 +58,6 @@ This project highlights important programming concepts such as:
 - Filtering and extracting specific information
 - Handling incomplete or missing data safely
   
-For more details see [GitHub Flavored Markdown](https://github.com/mskegro/csci301).
+For more details see [mskegro](https://github.com/mskegro/csci301).
 
 [Back to Portfolio](./)
