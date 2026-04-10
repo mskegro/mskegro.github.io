@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Leukemia Charity 5K Run](/pdf/sample_presentation.pdf)
 
 - **Class:** 
 - **Grade:**
