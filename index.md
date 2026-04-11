@@ -57,10 +57,10 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/presentation2.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 431** 
+- **Grade: A**
 
 ---
 
