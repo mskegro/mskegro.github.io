@@ -6,7 +6,7 @@ Python Job Web Scraper
 -   **Class: Survey Of Scripting Languages** 
 -   **Grade: A** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [mskegro](https://github.com/mskegro/csci301)  
+-   **Source Code Repository:** [mskegro/project1](https://github.com/mskegro/csci301)  
     (Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
