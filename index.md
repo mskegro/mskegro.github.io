@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/project1.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Graphs via Adjacency Lists | CSCI 315](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
