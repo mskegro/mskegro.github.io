@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 330](project1)
+### [Ripple Carry Adder | CSCI 330](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
