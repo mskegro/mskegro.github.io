@@ -3,7 +3,7 @@
 # Dijkstra's Algorithm GPS Shortest Path Finder
 
 - **Class: Algorithms (CSCI 415)**
-- **Grade: A**
+- **Grade: B+**
 - **Language(s): C++**
 - **Source Code Repository:** [mskegro/csci-415](https://github.com/mskegro/csci-415)  
   (Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
@@ -57,17 +57,17 @@ This program runs in the terminal and does not include a graphical user interfac
 
 Starting from vertex `d`, the program computes the shortest path to all reachable vertices in the graph (see Fig. 1).
 
-![screenshot](images/dijkstra_d.png)  
+![screenshot](images/project4-1.png)  
 Fig 1. Terminal output showing shortest path results starting from vertex 'd'
 
 Starting from vertex `e`, the program recomputes all shortest paths from a different point in the graph (see Fig. 2).
 
-![screenshot](images/dijkstra_e.png)  
+![screenshot](images/project4-2.png)  
 Fig 2. Terminal output showing shortest path results starting from vertex 'e'
 
 Starting from vertex `f`, the program demonstrates shortest path computation from a vertex deeper in the graph (see Fig. 3).
 
-![screenshot](images/dijkstra_f.png)  
+![screenshot](images/project4-3.png)  
 Fig 3. Terminal output showing shortest path results starting from vertex 'f'
 
 ## 3. Additional Considerations
