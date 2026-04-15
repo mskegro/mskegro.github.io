@@ -18,32 +18,38 @@ The implementation supports full graph operations including adding and removing 
 
 To run this project, follow the steps below.
 
-### Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/mskegro/csci-315
-cd csci-315
 ```
 
-### Compile the program
+### 2. Navigate to the project folder
 
 ```bash
-g++ -std=c++17 -o graph_sim src/*.cpp test/*.cpp
+cd csci-315/project3
 ```
 
-### Run the program
+### 3. Compile the test files
+
+Compile each test file separately as they each contain their own `main`:
 
 ```bash
-./graph_sim
+g++ -std=c++20 -I src -DUNITY_EXCLUDE_FLOAT -o run_simple src/GraphAL.cpp test/simple-test.cpp test/unity.c
 ```
-
-### Run memory check (optional)
 
 ```bash
-valgrind --leak-check=full ./graph_sim
+g++ -std=c++20 -I src -DUNITY_EXCLUDE_FLOAT -o run_graph src/GraphAL.cpp test/graph-test.cpp test/unity.c
 ```
 
-### View output
+### 4. Run the tests
+
+```bash
+./run_simple
+./run_graph
+```
+
+### View Output
 
 The program runs in the terminal and verifies:
 
