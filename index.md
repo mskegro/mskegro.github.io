@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/project2.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Dijkstra's Algorithm GPS Shortest Path Finder | CSCI 415](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4-1.png)
 
 ---
 
