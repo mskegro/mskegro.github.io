@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-# Ripple Carry Adder (32-bit Verilog Implementation)
+# Ripple Carry Adder 
 
 - **Class: Computer Architecture**
 - **Grade: A**
