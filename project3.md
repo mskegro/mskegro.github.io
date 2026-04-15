@@ -60,10 +60,17 @@ The program runs in the terminal and verifies:
 
 ## UI Design
 
-This program runs in the terminal and does not include a graphical user interface. Output is displayed in the console via the `print()` method and Unity test results, confirming correct graph behavior (see Fig. 1).
+This program runs in the terminal and does not include a graphical user interface. Output is displayed in the console via the `print()` method and Unity test results, confirming correct graph behavior.
 
-![screenshot](images/lab23.png)  
-Fig 1. Terminal output showing graph traversal and MST results
+The simple test suite verifies basic graph operations, including edge addition, adjacency checks, and edge removal (see Fig. 1).
+
+![screenshot](images/lab23_1.png)  
+Fig 1. Terminal output of simple test suite verifying basic graph operations
+
+The full graph test suite verifies depth-first traversal, Prim's minimum spanning tree algorithm, and disconnected graph handling (see Fig. 2).
+
+![screenshot](images/lab23_2.png)  
+Fig 2. Terminal output of graph test suite verifying traversals and MST results
 
 ## 3. Additional Considerations
 
