@@ -64,12 +64,12 @@ This program runs in the terminal and does not include a graphical user interfac
 
 The simple test suite verifies basic graph operations, including edge addition, adjacency checks, and edge removal (see Fig. 1).
 
-![screenshot](images/lab23_1.png)  
+![screenshot](images/project3-1.png)  
 Fig 1. Terminal output of simple test suite verifying basic graph operations
 
 The full graph test suite verifies depth-first traversal, Prim's minimum spanning tree algorithm, and disconnected graph handling (see Fig. 2).
 
-![screenshot](images/lab23_2.png)  
+![screenshot](images/project3-2.png)  
 Fig 2. Terminal output of graph test suite verifying traversals and MST results
 
 ## 3. Additional Considerations
