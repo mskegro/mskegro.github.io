@@ -14,12 +14,12 @@ Programming Projects
 ---
 ### [Graphs via Adjacency Lists | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project3-2.png)
 
 ---
 ### [Ripple Carry Adder | CSCI 330](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/project2.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
