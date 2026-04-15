@@ -5,7 +5,7 @@
 - **Class: Data Structures & Algorithms**
 - **Grade: A**
 - **Language(s): C++**
-- **Source Code Repository:** [mskegro/csci315](https://github.com/mskegro/csci-315)  
+- **Source Code Repository:** [mskegro/csci-315](https://github.com/mskegro/csci-315)  
   (Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project Description
@@ -21,8 +21,8 @@ To run this project, follow the steps below.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/mskegro/csci315
-cd csci315
+git clone https://github.com/mskegro/csci-315
+cd csci-315
 ```
 
 ### Compile the program
