@@ -58,7 +58,7 @@ The program runs in the terminal and verifies:
 
 This program runs in the terminal using a Verilog testbench for simulation. The output is displayed in the console and waveform viewer (GTKWave), showing correct execution of the ripple carry adder logic (see Fig. 1).
 
-![screenshot](images/rca_sim.png)  
+![screenshot](images/project2.png)  
 Fig 1. Simulation output of 32-bit ripple carry adder testbench
 
 ## 3. Additional Considerations
