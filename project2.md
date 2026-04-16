@@ -2,7 +2,7 @@
 
 # Ripple Carry Adder 
 
-- **Class: Computer Architecture(CSCI 330)**
+- **Class: Computer Architecture (CSCI 330)**
 - **Grade: A**
 - **Language(s): Verilog HDL**
 - **Source Code Repository:** [mskegro/csci330](https://github.com/mskegro/csci330)  
