@@ -3,7 +3,7 @@
 Python Job Web Scraper
 ===============
 
--   **Class: Survey Of Scripting Languages** 
+-   **Class: Survey Of Scripting Languages (CSCI 301)** 
 -   **Grade: A** 
 -   **Language(s): Python** 
 -   **Source Code Repository:** [mskegro/project1](https://github.com/mskegro/csci301)  
