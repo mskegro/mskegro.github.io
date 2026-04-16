@@ -2,7 +2,7 @@
 
 # Graphs via Adjacency Lists
 
-- **Class: Data Structures & Algorithms (CSCI 315)**
+- **Class: Data Structures Analysis (CSCI 315)**
 - **Grade: A**
 - **Language(s): C++**
 - **Source Code Repository:** [mskegro/csci-315](https://github.com/mskegro/csci-315)  
