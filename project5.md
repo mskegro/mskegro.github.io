@@ -68,7 +68,7 @@ Fig 4. The analytics screen
 
 The profile screen displays the user's current level, XP, achievement badges, and account information (see Fig. 5).
 
-![screenshot](images/ss5.jpeg)  
+![screenshot](images/ss55.jpeg)  
 
 Fig 5. The profile screen
 
