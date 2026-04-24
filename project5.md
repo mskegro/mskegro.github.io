@@ -44,7 +44,7 @@ The app will launch, and from there you can:
 
 The home dashboard displays today's habits as interactive cards, along with the user's current XP, level, and streak counts (see Fig. 1).
 
-![screenshot](images/ss44.png)
+![screenshot](images/ss44.jpeg)
 
 Fig 1. The home dashboard
 
