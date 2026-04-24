@@ -50,22 +50,26 @@ Fig 1. The home dashboard
 
 The habits screen displays all of the user's created habits along with their current streak and completion status (see Fig. 2).
 
-![screenshot](images/ss2.jpeg)  
+![screenshot](images/ss2.jpeg)
+
 Fig 2. The habits screen
 
 The habit creation screen allows users to name a habit, assign a color, and set a recurrence schedule (see Fig. 3).
 
-![screenshot](images/ss3.png)  
+![screenshot](images/ss3.jpeg)  
+
 Fig 3. The habit creation screen
 
 The analytics screen uses fl_chart to render weekly bar charts and monthly progress trends pulled from Firestore (see Fig. 4).
 
-![screenshot](images/ss4.png)  
+![screenshot](images/ss4.jpeg)  
+
 Fig 4. The analytics screen
 
 The profile screen displays the user's current level, XP, achievement badges, and account information (see Fig. 5).
 
-![screenshot](images/ss5.png)  
+![screenshot](images/ss5.jpeg)  
+
 Fig 5. The profile screen
 
 ## Additional Considerations
