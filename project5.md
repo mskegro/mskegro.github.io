@@ -5,8 +5,9 @@
 - **Class: Senior Project Implementation/Defense (CSCI 496)**
 - **Grade: In Progress**
 - **Language(s): Dart**
-- **Source Code Repository:** [mskegro/habit_tracker](https://github.com/mskegro/habit_tracker)  
-  (Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+- **Source Code Repository:** [mskegro/habit_tracker](https://github.com/mskegro/habit_tracker)
+- **Source Code Repository:** [mskegro/habit_tracker](https://github.com/mskegro/habit_tracker/documents)
+(Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project Description
 
@@ -41,25 +42,30 @@ The app will launch, and from there you can:
 
 ## UI Design
 
-The main dashboard displays today's habits as interactive cards, along with the user's current XP, level, and streak counts (see Fig. 1).
+The home dashboard displays today's habits as interactive cards, along with the user's current XP, level, and streak counts (see Fig. 1).
 
 ![screenshot](images/ss1.png)  
 Fig 1. The home dashboard
 
-The habit creation screen allows users to name a habit, assign a color, and set a recurrence schedule (see Fig. 2).
+The habits screen displays all of the user's created habits along with their current streak and completion status (see Fig. 2).
 
-![screenshot](images/habit-tracker-2.png)  
-Fig 2. The habit creation screen
+![screenshot](images/ss2.png)  
+Fig 2. The habits screen
 
-The achievements screen displays all unlocked and locked badges, with locked badges shown in grayscale alongside their unlock criteria (see Fig. 3).
+The habit creation screen allows users to name a habit, assign a color, and set a recurrence schedule (see Fig. 3).
 
-![screenshot](images/habit-tracker-3.png)  
-Fig 3. The achievements screen
+![screenshot](images/ss3.png)  
+Fig 3. The habit creation screen
 
 The analytics screen uses fl_chart to render weekly bar charts and monthly progress trends pulled from Firestore (see Fig. 4).
 
-![screenshot](images/habit-tracker-4.png)  
-Fig 4. The analytics dashboard
+![screenshot](images/ss4.png)  
+Fig 4. The analytics screen
+
+The profile screen displays the user's current level, XP, achievement badges, and account information (see Fig. 5).
+
+![screenshot](images/ss5.png)  
+Fig 5. The profile screen
 
 ## Additional Considerations
 
