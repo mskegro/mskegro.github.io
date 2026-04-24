@@ -7,7 +7,7 @@
 - **Language(s): Dart**
 - **Defense Documentation:** [mskegro/habit_tracker](https://github.com/mskegro/habit_tracker/tree/main/documentation)
 - **Source Code Repository:** [mskegro/habit_tracker](https://github.com/mskegro/habit_tracker)
-(Please [email me](mailto:mskegro@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+
 
 ## Project Description
 
