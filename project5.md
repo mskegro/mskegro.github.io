@@ -50,7 +50,7 @@ Fig 1. The home dashboard
 
 The habits screen displays all of the user's created habits along with their current streak and completion status (see Fig. 2).
 
-![screenshot](images/ss2.png)  
+![screenshot](images/ss2.jpeg)  
 Fig 2. The habits screen
 
 The habit creation screen allows users to name a habit, assign a color, and set a recurrence schedule (see Fig. 3).
