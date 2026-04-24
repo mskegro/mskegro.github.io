@@ -28,6 +28,12 @@ Programming Projects
 
 ---
 
+### [Gamified Habit Tracker - Habit Love | CSCI 496](project5.md)
+
+![Project 4 Thumbnail Name](images/ss1.png)
+
+---
+
 Ethics Papers
 -------------
 
