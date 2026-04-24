@@ -43,7 +43,7 @@ The app will launch, and from there you can:
 
 The main dashboard displays today's habits as interactive cards, along with the user's current XP, level, and streak counts (see Fig. 1).
 
-![screenshot](images/habit-tracker-1.png)  
+![screenshot](images/ss1.png)  
 Fig 1. The home dashboard
 
 The habit creation screen allows users to name a habit, assign a color, and set a recurrence schedule (see Fig. 2).
