@@ -44,7 +44,7 @@ The app will launch, and from there you can:
 
 The home dashboard displays today's habits as interactive cards, along with the user's current XP, level, and streak counts (see Fig. 1).
 
-![screenshot](images/ss1.png)  
+<img src="images/ss1.png" width="800" alt="screenshot"/>
 Fig 1. The home dashboard
 
 The habits screen displays all of the user's created habits along with their current streak and completion status (see Fig. 2).
